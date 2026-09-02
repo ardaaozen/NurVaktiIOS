@@ -1,0 +1,39 @@
+# macOS
+.DS_Store
+
+# Private application source (the public repository is a showcase only)
+Nur Vakti/
+AppStoreMockups/*.py
+CONTRIBUTING.md
+SECURITY.md
+docs/premium-package-checklist.md
+
+# Xcode
+DerivedData/
+build/
+*.xcuserstate
+*.xcscmblueprint
+xcuserdata/
+*.moved-aside
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.build/
+.swiftpm/xcode/package.xcworkspace/xcuserdata/
+
+# Local service configuration
+**/GoogleService-Info.plist
+**/Nur-Vakti-Info.plist
+**/Secrets.xcconfig
+
+# Local snapshots and timestamped backup files
+Nur Vakti/Nur Vakti 11.*/
+Nur Vakti/* [0-9][0-9]-[0-9][0-9]-[0-9][0-9]-[0-9][0-9][0-9].swift
+
+# App Store export metadata
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.html
+fastlane/test_output/
