@@ -1,3 +1,5 @@
+![Nur Vakti iOS](AppStoreMockups/nur-vakti-ios-hero.png)
+
 <p align="center">
   <a href="README.md">Türkçe</a> · <strong>English</strong>
 </p>
