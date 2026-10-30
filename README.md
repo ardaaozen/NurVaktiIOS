@@ -1,4 +1,6 @@
-![Nur Vakti iOS](AppStoreMockups/nur-vakti-ios-hero.png)
+![Nur Vakti iOS](assets/premium-cover.svg)
+
+<p align="center"><a href="https://apps.apple.com/app/id6758713590"><img src="https://raw.githubusercontent.com/ardaaozen/ardaaozen/01c1593/assets/badges/app-store-tr.png" alt="App Store'dan indir" height="54"></a></p>
 
 <p align="center">
   <a href="#turkce">Türkçe</a> · <a href="README.en.md">English</a>
@@ -8,7 +10,6 @@
   <h1>Nur Vakti iOS</h1>
   <p><strong>Namaz vakitleri, Kur’an, zikir ve günlük manevi içerikler — iPhone ve Apple Watch’ta.</strong></p>
   <p>
-    <a href="https://apps.apple.com/tr/app/nur-vakti-namaz-i-msakiye/id6758713590?l=tr"><img alt="App Store" src="https://img.shields.io/badge/App_Store-İndir-0D96F6?logo=apple&logoColor=white"></a>
     <img alt="SwiftUI" src="https://img.shields.io/badge/UI-SwiftUI-F05138?logo=swift&logoColor=white">
     <img alt="watchOS" src="https://img.shields.io/badge/Companion-watchOS-111111?logo=apple&logoColor=white">
     <img alt="Widgets" src="https://img.shields.io/badge/Experience-WidgetKit-6750A4">
